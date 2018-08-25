@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Download Official MIUI 10 Beta
+description: MIUI 10 ROM Beta Download Link Parser
 permalink: /miuirombeta
 
 ---
