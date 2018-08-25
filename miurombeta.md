@@ -10,7 +10,7 @@ permalink: /miuirombeta
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p style="visibility:hidden" id="notice" class="alert alert-warning"><em>remember this:</em> the link here is not appeared out of nowhere, it is loaded from the page or article before you came here. If the link is broken, you can go back to previous page and ask/report at the comment section. Wait until file/link is parsed and appeared at the download button below:
+<p style="visibility:hidden" id="notice" class="alert alert-info"><em>remember this:</em> the link here is not appeared out of nowhere, it is loaded from the page or article before you came here. If the link is broken, you can go back to previous page and ask/report at the comment section. Wait until file/link is parsed and appeared at the download button below:
 </p>
 <p>
 <a id="parser" rel="noopener external nofollow" class="btn btn-dark btn-primary" target="_blank" title="Your Link">_ parsing</a>
