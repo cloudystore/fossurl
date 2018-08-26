@@ -1,5 +1,5 @@
 ---
-pwrmalink: /s
+permalink: /s
 layout: default
 title: Facebook Helper
 ---
