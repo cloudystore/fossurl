@@ -4,7 +4,7 @@ layout: default
 title: Facebook Helper
 ---
 
-<a id="shortest" class="button button-dark">Wait< a>
+<a id="shortest" class="button button-dark">Wait</a>
 {: style="height:100%;display:block;text-align:center;"}
 
 <script type="text/javascript">
